@@ -48,6 +48,7 @@ pip install -e .
 We provide shell scripts for easy reproduction of the experiments.
 
 **Training**
+
 Train the NeurGO model on the Low-Fidelity (LF) tasks (LF1-LF3).
 
 * Using Script:
@@ -64,6 +65,7 @@ python main.py -d 10 -expname neurgo_demo -popsize 100 -maxepoch 1000 -lr 0.001 
 ```
 
 **Testing**
+
 Evaluate the trained model on standard test functions.
 
 * Using Script:
