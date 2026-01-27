@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: Benchmark
+Version: 1.0.0
+Summary: Benchmark functions for NeurGO
+Home-page: 
+Author: Anonymous
+Author-email: anonymous@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: summary
+
+Implementation of benchmark test functions for NeurGO experiments.

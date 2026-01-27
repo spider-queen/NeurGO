@@ -1,0 +1,1 @@
+python ./main.py -d 10 -expname neurgo -popsize 100 -maxepoch 1000 -lr 0.001 -mode train

@@ -1,0 +1,10 @@
+setup.py
+NeurGO/__init__.py
+NeurGO/imports.py
+NeurGO/model.py
+NeurGO/problem.py
+NeurGO/utils.py
+NeurGO.egg-info/PKG-INFO
+NeurGO.egg-info/SOURCES.txt
+NeurGO.egg-info/dependency_links.txt
+NeurGO.egg-info/top_level.txt
