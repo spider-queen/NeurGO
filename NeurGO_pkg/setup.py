@@ -5,7 +5,7 @@ setuptools.setup(
     version="1.0.0",
     author="Anonymous",  
     author_email="anonymous@example.com", 
-    description="NeurGO: A Generative MetaBBO Framework",  # 补充简短描述
+    description="NeurGO: A Generative Meta-Black-Box Optimizer for Low-Budget Expensive Optimization",  # 补充简短描述
     long_description="Implementation of NeurGO", 
     long_description_content_type="text",
     url="",  

@@ -1,6 +1,6 @@
 # NeurGO
 
-**NeurGO: Learning to Generate Elite Candidates for Meta-Black-Box Expensive Optimization**
+**NeurGO: A Generative Meta-Black-Box Optimizer for Low-Budget Expensive Optimization**
 
 > **Abstract:** Expensive black-box optimization is ubiquitous in science and engineering. To overcome the limitations of traditional surrogate-assisted methods, we propose **NeurGO**, a generative framework that directly synthesizes elite candidates from historical population states. By leveraging a Rank-Fitness Dual-Aware Attention mechanism and a Generative Module, NeurGO efficiently navigates the search space with a limited evaluation budget.
 
